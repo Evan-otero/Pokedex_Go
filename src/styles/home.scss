@@ -24,3 +24,69 @@ background-color: #222222;
 z-index: 1;
 height: 100%
 }
+.navrow{
+    width: 100%
+}
+.title{
+    text-align: center;
+}
+
+.Lcircle{
+    height: 50px;
+  width: 50px;
+  background-color: #e3e4e6;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-style: solid;
+  border-width: 2px;
+}
+.Scircle{
+    height: 75%;
+  width: 75%;
+  background-color: #2e439b;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 5px;
+  margin-top: 5px;;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.scred{
+    background-color: #ac1919;
+    height:15px;
+    width: 15px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 5px;
+  margin-top: 5px;;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black
+}
+.scyellow{
+    background-color: #f2ee46;
+    height:15px;
+    width: 15px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 5px;
+  margin-top: 5px;;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black
+}
+.scgreen{
+    background-color: #228747;
+    height:15px;
+    width: 15px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 5px;
+  margin-top: 5px;;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black
+}
